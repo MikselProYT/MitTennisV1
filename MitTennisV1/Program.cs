@@ -16,7 +16,7 @@ namespace Pong
             Console.ForegroundColor = ConsoleColor.White;
             Console.WriteLine("Hej Bruger dette er pingpong eller Tennis");
             Console.SetCursorPosition(0, Console.CursorTop + 1);
-            Console.WriteLine("Skriv 'pingpong' for at spille pingpong eller 'tennis' for at spille tennis");
+            Console.WriteLine("Skriv 'pingpong' for fuck spille pingpong eller 'tennis' for at spille tennis");
             Thread.Sleep(10000000);
             
             
