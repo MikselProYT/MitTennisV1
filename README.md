@@ -9,4 +9,5 @@ Jeg fik lavet en intro ved at skrive "hej bruger" og fik sat en baggrunds- og fo
 Jeg har lært at bruge Console.WriteLine("") Console.BackgroundColor = ConsoleColor."Farve"; og Console.SetCursorPosition(0,0)
 
 
+
 Dag 2:
